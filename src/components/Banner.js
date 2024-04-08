@@ -58,7 +58,7 @@ export const Banner = () => {
               {`一饼智投，你的`}
               <span className="wrap">{text}</span>
             </h1>
-            <p>点击注册，开箱即用</p>
+            <p>用 AI 为投资赋能</p>
             <button onClick={() => console.log("connect")}>
               登录/注册 <ArrowRightCircle size={25} />
             </button>
