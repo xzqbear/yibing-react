@@ -55,7 +55,8 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <span className="tagline">AIGC 投资领跑者</span>
             <h1>
-              {`一饼智投，你的`}
+              {`一饼智投，`}
+              <br /> {`你的`}
               <span className="wrap">{text}</span>
             </h1>
             <p>用 AI 为投资赋能</p>
