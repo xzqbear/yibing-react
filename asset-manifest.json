@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2169d07b.css",
+    "main.js": "/static/js/main.b51eb37f.js",
+    "static/media/product-web.jpg": "/static/media/product-web.2e5664d6a6309f5c3ab7.jpg",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.svg": "/static/media/header-img.a37bc190a90f90d96194c61c0350b712.svg",
+    "static/media/product-weixin.png": "/static/media/product-weixin.9e4f480685947a5c37f6.png",
+    "static/media/banner-bg.jpg": "/static/media/banner-bg.be825ce263d66a5fdffa.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/static/media/logo.ff24901c355b7c1d057c4cb6fce7ae2e.svg",
+    "static/media/device.svg": "/static/media/device.49c5d38a8acdefdf681485fa41de3bc2.svg",
+    "static/media/spanner.svg": "/static/media/spanner.cae6fc161ce51aa9a9e8e066389c54fc.svg",
+    "static/media/eye.svg": "/static/media/eye.32f092d86c5298ee70046b7c62ca2bd8.svg",
+    "static/media/box-open.svg": "/static/media/box-open.4127407b52b7c00f940125fc8b5bf9a7.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.b7701b8fa54a40a7a915cba04542f144.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.ab8fd78c3628e01a12b96502e0b73a78.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.9dffa4e3bb979d3c8dfdadfb9ca0ab49.svg",
+    "index.html": "/index.html",
+    "main.2169d07b.css.map": "/static/css/main.2169d07b.css.map",
+    "main.b51eb37f.js.map": "/static/js/main.b51eb37f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2169d07b.css",
+    "static/js/main.b51eb37f.js"
+  ]
+}
