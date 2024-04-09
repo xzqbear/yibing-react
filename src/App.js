@@ -1,20 +1,16 @@
-import { useState } from "react";
-import { NavBar } from "./components/NavBar";
-import { Banner } from "./components/Banner";
-import { Skills } from "./components/Skills";
-import { Projects } from "./components/Projects";
-import { Contact } from "./components/Contact";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
+import { Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import Chat from "./pages/Chat";
 
 function App() {
   return (
-    <div className="App">
-      <NavBar />
-      <Banner />
-      <Skills />
-      <Projects />
-      <Contact />
+    <div>
+      <Routes>
+        <Route exact path="/" element={<Home />} />
+        <Route path="/chat" element={<Chat />} />
+      </Routes>
     </div>
   );
 }

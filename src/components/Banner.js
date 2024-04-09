@@ -61,7 +61,9 @@ export const Banner = () => {
             </h1>
             <p>用 AI 为投资赋能</p>
             <button onClick={() => console.log("connect")}>
-              登录/注册 <ArrowRightCircle size={25} />
+              <a href="#login">
+                登录/注册 <ArrowRightCircle size={25} />
+              </a>
             </button>
           </Col>
           <Col xs={12} md={6} xl={5}>

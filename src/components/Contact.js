@@ -20,6 +20,16 @@ export const Contact = () => {
     marginTop: "8px",
   };
 
+  // AIGC 四字样式
+  const aigcText = {
+    display: "inline",
+    fontSize: "60px",
+    verticalAlign: "bottom",
+    backgroundImage: "linear-gradient(to right, deeppink, orange)",
+    backgroundClip: "text",
+    color: "transparent",
+  };
+
   const onFormUpdate = (category, value) => {
     setFormDetails({
       ...formDetails,
@@ -52,6 +62,8 @@ export const Contact = () => {
 
   return (
     <section className="contact" id="connect">
+      {/* 登录页面跳转 */}
+      <a id="login"></a>
       <Container>
         <Row className="align-items-center">
           <Col size={12} md={6}>
@@ -75,7 +87,9 @@ export const Contact = () => {
                     isVisible ? "animate__animated animate__fadeIn" : ""
                   }
                 >
-                  <h2>开始您的 AIGC 投资之旅</h2>
+                  <h2>
+                    开始您的 <div style={aigcText}>AIGC</div> 投资之旅
+                  </h2>
                   <form onSubmit={handleSubmit}>
                     <Row>
                       <Col size={12} sm={12} className="px-1">
